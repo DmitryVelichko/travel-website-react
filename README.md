@@ -1,4 +1,4 @@
-Awesome travel website built with ReactJS + React Router.
+Awesome tablet and mobile responsive travel website built with ReactJS + React Router.
 
 
 ![image](https://user-images.githubusercontent.com/42185328/116214253-321dc980-a74f-11eb-9243-741acab63961.png)
